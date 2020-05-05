@@ -1,2 +1,1 @@
-# DS-project
-Data Science Project
+# Hiring insights during COVID-19
